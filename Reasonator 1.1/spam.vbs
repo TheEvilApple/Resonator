@@ -1,0 +1,1 @@
+x=MsgBox("Go to quarantine with your infected PC.",vbOkOnly+vbCritical,"Resonator")

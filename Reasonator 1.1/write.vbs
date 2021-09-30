@@ -1,0 +1,130 @@
+Set wshshell = wscript.CreateObject("WScript.Shell")
+Wshshell.run "Notepad" 
+wscript.sleep 100
+wshshell.sendkeys "Y"
+wscript.sleep 100
+wshshell.sendkeys "o"
+wscript.sleep 100
+wshshell.sendkeys "u"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "h"
+wscript.sleep 100
+wshshell.sendkeys "a"
+wscript.sleep 100
+wshshell.sendkeys "v"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "b"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys "n"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "i"
+wscript.sleep 100
+wshshell.sendkeys "n"
+wscript.sleep 100
+wshshell.sendkeys "f"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys "c"
+wscript.sleep 100
+wshshell.sendkeys "t"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys "d"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "b"
+wscript.sleep 100
+wshshell.sendkeys "y"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "T"
+wscript.sleep 100
+wshshell.sendkeys "h"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "R"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys "s"
+wscript.sleep 100
+wshshell.sendkeys "o"
+wscript.sleep 100
+wshshell.sendkeys "n"
+wscript.sleep 100
+wshshell.sendkeys "a"
+wscript.sleep 100
+wshshell.sendkeys "t"
+wscript.sleep 100
+wshshell.sendkeys "o"
+wscript.sleep 100
+wshshell.sendkeys "r"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "V"
+wscript.sleep 100
+wshshell.sendkeys "i"
+wscript.sleep 100
+wshshell.sendkeys "r"
+wscript.sleep 100
+wshshell.sendkeys "u"
+wscript.sleep 100
+wshshell.sendkeys "s"
+wscript.sleep 100
+wshshell.sendkeys "."
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "H"
+wscript.sleep 100
+wshshell.sendkeys "a"
+wscript.sleep 100
+wshshell.sendkeys "v"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "a"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "g"
+wscript.sleep 100
+wshshell.sendkeys "r"
+wscript.sleep 100
+wshshell.sendkeys "e"
+wscript.sleep 100
+wshshell.sendkeys "a"
+wscript.sleep 100
+wshshell.sendkeys "t"
+wscript.sleep 100
+wshshell.sendkeys " "
+wscript.sleep 100
+wshshell.sendkeys "d"
+wscript.sleep 100
+wshshell.sendkeys "a"
+wscript.sleep 100
+wshshell.sendkeys "y"
+wscript.sleep 100
+wshshell.sendkeys "!"
